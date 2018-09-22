@@ -1,0 +1,19 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/Py-programming-3
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c0725620510f287fd1891f045425f8faf1011e9f667d55b0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c0725620510f287fd1891f045425f8faf1011e9f667d55b0&token=c0725620510f287fd1891f045425f8faf1011e9f667d55b0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook 14-05/lect_pandas.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 17db4b52-281b-41ea-8b34-fd6dc801c7a7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 17db4b52-281b-41ea-8b34-fd6dc801c7a7
+[NotebookApp | INFO] Saving file at /14-05/lect_pandas.ipynb
+[NotebookApp | WARNING] Notebook 14-05/lect_pandas.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 17db4b52-281b-41ea-8b34-fd6dc801c7a7:059ab913570d47e08e07637b6e12b8dd
