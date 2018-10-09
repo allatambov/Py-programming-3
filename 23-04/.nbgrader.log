@@ -1,0 +1,20 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/allat/Documents/github/Py-programming-3/23-04
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=c7769748adc415af579b7260ced91638b37c66d0730034f1
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=c7769748adc415af579b7260ced91638b37c66d0730034f1&token=c7769748adc415af579b7260ced91638b37c66d0730034f1
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook sem-23-04-solutions.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: fdde35b1-a562-427c-ab63-a49071b79966
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fdde35b1-a562-427c-ab63-a49071b79966
+[NotebookApp | INFO] Saving file at /sem-23-04-solutions.ipynb
+[NotebookApp | INFO] Saving file at /sem-23-04-solutions.ipynb
+[NotebookApp | INFO] Saving file at /sem-23-04-solutions.ipynb
+[NotebookApp | INFO] Starting buffering for fdde35b1-a562-427c-ab63-a49071b79966:23430e34e6d54cb08d415ef00806ff98
